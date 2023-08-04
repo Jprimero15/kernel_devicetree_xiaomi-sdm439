@@ -1,0 +1,4 @@
+/* From stock sdm439.dtsi */
+&sdhc_1 {
+        qcom,ddr-config = <0x00040868>;
+};

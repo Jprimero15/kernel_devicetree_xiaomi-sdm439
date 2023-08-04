@@ -14,7 +14,7 @@
 
 /dts-v1/;
 
-#include "qcom/sdm439.dtsi"
+#include "../qcom/sdm439.dtsi"
 
 #include "base/common/common.dtsi"
 #include "base/olive/olive.dtsi"

@@ -17,7 +17,7 @@
 
 #define DO_NOT_INCLUDE_DEFAULT_CAMERA_SENSOR_DTSI
 
-#include "qcom/sdm439-qrd.dtsi"
+#include "../qcom/sdm439-qrd.dtsi"
 
 #include "dtbo/common/common.dtsi"
 #include "dtbo/pine/pine.dtsi"
